@@ -6,4 +6,6 @@ Test for Jupiter </br>
 - __Func.py__ is the utility function needed for part 1 
 - __Tableau dashboard1__ https://public.tableau.com/app/profile/kun.situ/viz/JupiterSubscriberOverview/SubscriberOverview?publish=yes
 - __Tableau dashboard2__ https://public.tableau.com/app/profile/kun.situ/viz/JupiterBalanceVSSubscriberAnalysis/BalanceVSSubscriberAnalysis?publish=yes
-
+- __part2.ipynb__ is the new part 2 I did for the time series analysis
+- __TWTR.csv, FB.csv__ are the stock data for part 2
+- __Part3.docx__ is the part 3 about data scenario
